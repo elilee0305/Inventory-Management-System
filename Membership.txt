@@ -1,0 +1,3 @@
+Premium|20
+Gold|10
+Normal|5
